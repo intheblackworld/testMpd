@@ -1,0 +1,6 @@
+[submodule "shaka-player"]
+	path = shaka-player
+	url = https://github.com/google/shaka-player.git
+[submodule "shaka-packager"]
+	path = shaka-packager
+	url = https://github.com/google/shaka-packager
